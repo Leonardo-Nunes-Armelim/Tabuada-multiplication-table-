@@ -1,1 +1,1 @@
-# Tabuada-multiplication-table-
+# Tabuada (multiplication table)
